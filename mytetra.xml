@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format subversion="2" version="1"/>
+ <content>
+  <node name="Работа с ПК" crypt="0" icon="/Swift/color_swift_Browserscript.svg" id="1300000000aaaaaaaaa1">
+   <recordtable>
+    <record dir="1300000000aaaaaaaaa2" ctime="20081210124656" author="" name="Welcome to MyTetra!" tags="MyTetra, Qt" id="1300000000aaaaaaaaa3" file="text.html" url=""/>
+   </recordtable>
+   <node name="Linux" crypt="0" id="1596529806t6jeft1sau">
+    <recordtable>
+     <record dir="15965298380l12hx0cla" ctime="20200804113038" author="fdf" name="dsf" tags="" id="1596529838izpqflcley" file="text.html" url=""/>
+     <record dir="1596529853jmh0sufbjr" ctime="20200804113053" author="" name="sdfsdf" tags="" id="15965298538vg2z59qil" file="text.html" url=""/>
+    </recordtable>
+    <node name="23213" crypt="0" id="15965298193wk0df5zz1"/>
+    <node name="Vim" crypt="0" id="1597142358k6afmym6e5">
+     <recordtable>
+      <record dir="1597142382ru7fd2j86t" ctime="20200811133942" author="" name="Выполняем sudo при записи в Vim" tags="" id="15971423828l5creiaxv" file="text.html" url=""/>
+     </recordtable>
+    </node>
+   </node>
+   <node name="fdg" crypt="0" id="1596529809v5m0g8ki81"/>
+  </node>
+ </content>
+</root>
